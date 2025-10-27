@@ -139,3 +139,26 @@ __
     </details>
 
 </div>
+
+<div style="text-align: center; margin-top: 40px; padding-top: 30px; border-top: 1px dashed #444;">
+    <h3 style="font-size: 1.8em; color: #e6c07b; margin-bottom: 15px; letter-spacing: 1px;">
+        ✨ About the Architect ✨
+    </h3>
+    <p style="font-size: 1.1em; color: #c8d1d9; margin-bottom: 25px; max-width: 800px; margin-left: auto; margin-right: auto;">
+        Hello! I'm Soumodip Ghosh, also known as BROCCOLI. I'm an Aspiring Tech Visionary dedicated to building the future one line at a time. This repository is a part of my journey in <strong>Java mastery</strong>.
+    </p>
+    <div style="margin-top: 20px; margin-bottom: 30px;">
+        <a href="https://github.com/THE-SOUMODIPghoshOFFICIAL" target="_blank" style="margin: 0 10px;">
+            <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="httpsx.com/Dips_soumayan" target="_blank" style="margin: 0 10px;">
+            <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+        </a>
+        <a href="mailto:thedipssoumoofficial@gmail.com" target="_blank" style="margin: 0 10px;">
+            <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+    </div>
+    <p style="font-size: 0.9em; color: #5c6370;">
+        Built with curiosity and code by BROCCOLI.
+    </p>
+</div>
