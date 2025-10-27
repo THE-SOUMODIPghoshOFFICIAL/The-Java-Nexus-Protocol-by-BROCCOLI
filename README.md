@@ -151,7 +151,7 @@ __
         <a href="https://github.com/THE-SOUMODIPghoshOFFICIAL" target="_blank" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
-        <a href="httpsx.com/Dips_soumayan" target="_blank" style="margin: 0 10px;">
+        <a href="https://x.com/Dips_soumayan" target="_blank" style="margin: 0 10px;">
             <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
         </a>
         <a href="mailto:thedipssoumoofficial@gmail.com" target="_blank" style="margin: 0 10px;">
