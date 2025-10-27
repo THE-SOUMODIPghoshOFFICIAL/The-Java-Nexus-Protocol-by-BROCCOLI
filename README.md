@@ -75,3 +75,67 @@ This protocol is segmented into distinct phases, tracking the progression from b
     &emsp;└── <span style="color: #56b6c2;">📝 README.md</span><br>
     &emsp;<i><span style="color: #5c6370;">\# ... future phase directories will be added here ...</span></i>
 </div>
+
+<p>
+  <ul>
+    <li><b><code>01_the_basics_java/</code></b>: Contains foundational Java source files.</li>
+    <li><em>As the protocol advances, new directories and files for subsequent phases (e.g., OOP, Collections) will be introduced.</em></li>
+  </ul>
+</p>
+
+<br>
+<hr style="border: 0; height: 1px; background: #333; margin-top: 30px; margin-bottom: 30px;">
+
+<div style="background-color: #1e1e1e; border-radius: 10px; padding: 20px; margin-top: 30px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); color: #c8d1d9;">
+   __ 
+    <details style="margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 15px;">
+        <summary style="font-size: 1.3em; font-weight: bold; color: #61afef; cursor: pointer; outline: none; padding: 10px 0;">
+            ⚙️ Compiling & Running the Code
+        </summary>
+        <div style="padding-left: 2em; padding-top: 10px;">
+            <p>To compile and run a specific Java file:</p>
+            <ol>
+                <li>Ensure you have the Java JDK (Java 17 or higher) installed.</li>
+                <li>Clone the repository and navigate to the root folder:
+                    <pre style="background-color: #2c313a; color: #abb2bf; padding: 15px; border-radius: 5px; display: block; overflow-x: auto; margin-top: 10px;"><code>cd The-Java-Nexus-Protocol</code></pre>
+                </li>
+                <li>Compile the <code>.java</code> file. This will create a <code>.class</code> file:
+                    <pre style="background-color: #2c313a; color: #abb2bf; padding: 15px; border-radius: 5px; display: block; overflow-x: auto; margin-top: 10px;"><code>javac 01_the_basics_java/soumo.java</code></pre>
+                </li>
+                <li>Run the compiled code from the root directory using the package path:
+                    <pre style="background-color: #2c313a; color: #abb2bf; padding: 15px; border-radius: 5px; display: block; overflow-x: auto; margin-top: 10px;"><code>java 01_the_basics_java.soumo</code></pre>
+                    <em>(Replace <code>soumo</code> with the name of the class you wish to run)</em>
+                </li>
+            </ol>
+        </div>
+    </details>
+__
+    <details style="margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 15px;">
+        <summary style="font-size: 1.3em; font-weight: bold; color: #61afef; cursor: pointer; outline: none; padding: 10px 0;">
+            🤝 Contributing
+        </summary>
+        <div style="padding-left: 2em; padding-top: 10px;">
+            <p>As this is a personal learning journey, I'm not actively seeking direct contributions to code.</p>
+            <p>However, your feedback is highly valued! If you spot a bug, have a suggestion for more <strong>idiomatic Java</strong>, or want to discuss a concept, please don't hesitate to:</p>
+            <!-- Fixed the stray characters here and updated the link -->
+            <div style="text-align: center; margin-top: 20px;">
+                <a href="https://github.com/THE-SOUMODIPghoshOFFICIAL/The-Java-Nexus-Protocol-by-BROCCOLI/issues/new" target="_blank" style="display: inline-block; background-color: #98c379; color: #282c34; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1em; margin-top: 20px; border: none; cursor: pointer;">
+                    Open an Issue on GitHub
+                </a>
+            </div>
+            <p style="margin-top: 20px;">Your insights help refine the protocol!</p>
+        </div>
+    </details>
+__
+    <!-- This is the 'License' section that was missing from your code snippet -->
+    <details style="border: none; margin-bottom: 0; padding-bottom: 0;">
+        <summary style="font-size: 1.3em; font-weight: bold; color: #61afef; cursor: pointer; outline: none; padding: 10px 0;">
+            📄 License
+        </summary>
+        <div style="padding-left: 2em; padding-top: 10px;">
+            <p>This project is licensed under the <strong>MIT License</strong> - you can find the full details in the <a href="LICENSE" style="color: #61afef; text-decoration: none;">LICENSE</a> file.</p>
+            <p>Feel free to use, modify, and distribute according to the terms.</p>
+        </div>
+    </details>
+
+</div>
